@@ -1,6 +1,4 @@
-Here's the well-structured README.md file:
 
-```markdown
 # Key-Value Logger Solana Program
 
 A Solana program built with Anchor that demonstrates different logging methods through key-value pair operations. Includes a TypeScript client for interaction and event monitoring.
